@@ -438,7 +438,6 @@
 		FF15C6822401C7E400D4B1E8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "TicTacToe-Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -455,7 +454,6 @@
 		FF15C6832401C7E400D4B1E8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "TicTacToe-Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
